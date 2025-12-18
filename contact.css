@@ -1,0 +1,27 @@
+h1{color: rgb(10, 114, 173);
+}
+header, label,input{
+    border-collapse: collapse;
+    display: grid;
+    justify-content: center;
+    border-color: rgb(9, 51, 131);
+    border-left: 50px;
+    border-top: 50px;
+    border-top-width: 50px;
+}
+button{color: white;
+    background-color: rgb(10, 114, 173);
+    border-radius: 8px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+body{background-image: url(https://wallpaperaccess.com/full/317501.jpg);
+    background-size: cover;
+}
+div{background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 20px;
+    display: grid;
+    justify-content: center;
+}
